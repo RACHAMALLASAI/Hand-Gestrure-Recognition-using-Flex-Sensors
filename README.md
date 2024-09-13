@@ -8,7 +8,7 @@ In this project let us see how to design and Implement a circuit to measure the 
 5)Arduino Uno<br>
 6)LCD Display.<br>
 ## What is flex Sensor :
-![alt text](flexsensor.png)
+![alt text](flexsensor.png)<br>
 Flex sensors change resistance when bent or flexed. It uses resistance changes to monitor bending on a flexible substrate with conductive materials. Flex sensors accurately sense human movements in gesture control interfaces, prosthetics, and robotics, providing intuitive engagement and inventive solutions.<br>
 FS-L-0095-103-ST:<br>
 Flat resistance-10kΩ<br>
