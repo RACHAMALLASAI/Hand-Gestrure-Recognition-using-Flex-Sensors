@@ -32,7 +32,9 @@ The resistance of the each flex sensor increases when we curl the
 respective finger.<br>
 ![alt text](Implementation.png)
 ## Block Diagram :
-![alt text](BlockDiagram.png)
+![alt text](BlockDiagram.png)<br>
+Arduino Interfacing with I2C<br>
+
 
 ## Observations and conclusions:
 A linear connection between the resistance levels and the bending was discovered. The sensor's resistance varies even with very little bending. It takes some time for the resistance to return to its flat resistance value once it has been bent. Occasionally, the deformation of the flux sensor (because the sensor was too thin) prevents the resistance from returning to the flat resistance values. It was challenging to get the results to be repeatable. This might lead to a measurement inaccuracy for the bending.
