@@ -30,6 +30,7 @@ The experiment utilizes three flex sensors, one affixed to the index finger and 
 4. All three fingers curled inside-”Zero”<br>
 The resistance of the each flex sensor increases when we curl the
 respective finger.<br>
+![alt text](Implementation.png)
 ## Block Diagram :
 ![alt text](BlockDiagram.png)
 
